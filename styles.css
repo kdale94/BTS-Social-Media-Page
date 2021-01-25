@@ -1,0 +1,65 @@
+.bar {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: #338BFF;
+    border: 7px groove blue;
+}
+
+.pics {
+    color: purple;
+    padding: 10px;
+    border: dashed 5px #6533FF;
+}
+.pics:hover {
+  background-color: pink;
+}
+.general {
+    color: black;
+    padding: 10px;
+    border: dashed 5px white;
+}
+.general:hover {
+  background-color: pink;
+}
+.quotes {
+    color: purple;
+    padding: 10px;
+    border: dashed #6533FF 5px;
+}
+.quotes:hover {
+  background-color: pink;
+}
+.info {
+    display: flex;
+    justify-content: center;
+    padding: 17px;
+    border: 13px groove #7339ab;
+    background-color: #625ad8;
+}
+
+.grammys {
+    width: 450px;
+    margin: 15px;
+}
+.btsquotes {
+    border: 10px groove #00203f;
+    padding: 17px;
+    background-color: #5EAAF4;
+}
+.friends{
+    width: 500px;
+    margin: 15px;
+}
+.biases
+{
+    width: 200px;
+}
+.biasesbae
+{
+    width: 360px;
+}
+.bias
+{
+    width: 250px;
+}
